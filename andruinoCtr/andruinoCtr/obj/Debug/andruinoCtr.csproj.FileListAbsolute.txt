@@ -1,0 +1,10 @@
+F:\GitHub\Git2021\andruino01\andruinoCtr\andruinoCtr\bin\Debug\andruinoCtr.exe.config
+F:\GitHub\Git2021\andruino01\andruinoCtr\andruinoCtr\bin\Debug\andruinoCtr.exe
+F:\GitHub\Git2021\andruino01\andruinoCtr\andruinoCtr\bin\Debug\andruinoCtr.pdb
+F:\GitHub\Git2021\andruino01\andruinoCtr\andruinoCtr\obj\Debug\andruinoCtr.csprojAssemblyReference.cache
+F:\GitHub\Git2021\andruino01\andruinoCtr\andruinoCtr\obj\Debug\andruinoCtr.Form1.resources
+F:\GitHub\Git2021\andruino01\andruinoCtr\andruinoCtr\obj\Debug\andruinoCtr.Properties.Resources.resources
+F:\GitHub\Git2021\andruino01\andruinoCtr\andruinoCtr\obj\Debug\andruinoCtr.csproj.GenerateResource.cache
+F:\GitHub\Git2021\andruino01\andruinoCtr\andruinoCtr\obj\Debug\andruinoCtr.csproj.CoreCompileInputs.cache
+F:\GitHub\Git2021\andruino01\andruinoCtr\andruinoCtr\obj\Debug\andruinoCtr.exe
+F:\GitHub\Git2021\andruino01\andruinoCtr\andruinoCtr\obj\Debug\andruinoCtr.pdb
