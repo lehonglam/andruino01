@@ -8,3 +8,4 @@ F:\GitHub\Git2021\andruino01\andruinoCtr\andruinoCtr\obj\Debug\andruinoCtr.cspro
 F:\GitHub\Git2021\andruino01\andruinoCtr\andruinoCtr\obj\Debug\andruinoCtr.csproj.CoreCompileInputs.cache
 F:\GitHub\Git2021\andruino01\andruinoCtr\andruinoCtr\obj\Debug\andruinoCtr.exe
 F:\GitHub\Git2021\andruino01\andruinoCtr\andruinoCtr\obj\Debug\andruinoCtr.pdb
+F:\GitHub\Git2021\andruino01\andruinoCtr\andruinoCtr\obj\Debug\andruinoCtr.TDINBOT.resources
